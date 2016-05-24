@@ -1,0 +1,4 @@
+#!/bin/bash
+
+sudo DEBIAN_FRONTEND=noninteractive aptitude install -q -y mysql-server php5-mysql php5-gd
+sudo chmod -R 777 /var/www/html/*
