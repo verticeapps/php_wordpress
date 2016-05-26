@@ -18,7 +18,7 @@
 <p style="text-align: right">&#8212; Matt Mullenweg</p>
 
 <a href="https://console.megamafrica.com" target="_blank">
-<img src="https://s3-ap-southeast-1.amazonaws.com/megampub/images/megamafrica/DEPLOY-TO-MEGAM-AFRICA1.png" alt="wordpres button" />
+<img src="https://s3-ap-southeast-1.amazonaws.com/megampub/images/megamafrica/DEPLOY-TO-MEGAM-AFRICA2.png" alt="wordpres button" />
 </a>
 
 <h2>Installation: Famous 5-minute install</h2>
