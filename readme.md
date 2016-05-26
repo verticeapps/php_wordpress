@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 	<meta name="viewport" content="width=device-width" />
@@ -16,6 +16,10 @@
 <h2>First Things First</h2>
 <p>Welcome. WordPress is a very special project to me. Every developer and contributor adds something unique to the mix, and together we create something beautiful that I&#8217;m proud to be a part of. Thousands of hours have gone into WordPress, and we&#8217;re dedicated to making it better every day. Thank you for making it part of your world.</p>
 <p style="text-align: right">&#8212; Matt Mullenweg</p>
+
+<a href="https://console.megamafrica.com" target="_blank">
+<img src="https://s3-ap-southeast-1.amazonaws.com/megampub/images/megamafrica/DEPLOY-TO-MEGAM-AFRICA1.png" alt="wordpres button" />
+</a>
 
 <h2>Installation: Famous 5-minute install</h2>
 <ol>
@@ -96,5 +100,3 @@
 
 </body>
 </html>
-
-To Launch WordPress click here [![megamafrica](https://s3-ap-southeast-1.amazonaws.com/megampub/images/megamafrica/DEPLOY-TO-MEGAM-AFRICA1.png)](https://console.megamafrica.com)
