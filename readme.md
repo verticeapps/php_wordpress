@@ -17,8 +17,11 @@
 <p>Welcome. WordPress is a very special project to me. Every developer and contributor adds something unique to the mix, and together we create something beautiful that I&#8217;m proud to be a part of. Thousands of hours have gone into WordPress, and we&#8217;re dedicated to making it better every day. Thank you for making it part of your world.</p>
 <p style="text-align: right">&#8212; Matt Mullenweg</p>
 
-<a href="https://console.megamafrica.com" target="_blank">
-<img src="https://s3-ap-southeast-1.amazonaws.com/megampub/images/megamafrica/DEPLOY-TO-MEGAM-AFRICA2.png" alt="wordpres button" />
+
+###To deploy 
+
+<a href="https://docs.megam.io" target="_blank">
+<img src="https://s3-ap-southeast-1.amazonaws.com/megampub/images/vertice/DEPLOY-TO-MEGAM-VERTICE2.png" alt="wordpres button" />
 </a>
 
 <h2>Installation: Famous 5-minute install</h2>
@@ -97,6 +100,12 @@
 
 <h2>License</h2>
 <p>WordPress is free software, and is released under the terms of the <abbr title="GNU General Public License">GPL</abbr> version 2 or (at your option) any later version. See <a href="license.txt">license.txt</a>.</p>
+
+###To deploy 
+
+<a href="https://docs.megam.io" target="_blank">
+<img src="https://s3-ap-southeast-1.amazonaws.com/megampub/images/vertice/DEPLOY-TO-MEGAM-VERTICE2.png" alt="wordpres button" />
+</a>
 
 </body>
 </html>
